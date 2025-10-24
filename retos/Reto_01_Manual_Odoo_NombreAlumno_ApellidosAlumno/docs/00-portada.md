@@ -1,4 +1,4 @@
 # Manual de Odoo — Leandro Bautista Santilario Martínez
-**Reto:** Manual_Odoo_{Nombre}_{Apellidos}  
+**Reto:** Manual_Odoo_Leandro_Bautista_Santilario_Martínez  
 **Proyecto:** Proyecto_RA2_UT2  
-**Fecha:** {YYYY-MM-DD}
+**Fecha:** 2025-10-24
