@@ -1,4 +1,4 @@
-![Logo_de_Odoo](./assets/img/01-portada/odoo_logo.png)
+![Logo_de_Odoo](retos/Reto_01_Manual_Odoo_NombreAlumno_ApellidosAlumno/assets/img/01-portada/odoo_logo.png)
 # Manual de Odoo — Leandro Bautista Santilario Martínez
 **Reto:** Manual_Odoo_Leandro_Bautista_Santilario_Martínez  
 **Proyecto:** Proyecto_RA2_UT2  
