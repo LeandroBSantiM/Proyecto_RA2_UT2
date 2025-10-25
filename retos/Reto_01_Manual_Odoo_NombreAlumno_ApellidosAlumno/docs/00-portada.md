@@ -1,4 +1,4 @@
-![Logo_de_Odoo](../assets/img/01-portada/odoo_logo.png)
+![Logo_de_Odoo](../assets/img/00-portada/odoo_logo.png)
 
 # Manual de Odoo — Leandro Bautista Santilario Martínez
 
