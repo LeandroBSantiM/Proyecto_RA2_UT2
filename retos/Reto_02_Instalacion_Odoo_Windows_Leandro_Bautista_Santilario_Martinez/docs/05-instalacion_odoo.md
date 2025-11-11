@@ -4,6 +4,8 @@
 2. Acepta la licencia y elige **ruta de instalación**.
 3. Si se solicita, configura la conexión a **PostgreSQL**.
 4. Completa la instalación y finaliza el asistente.
-   - ![Asistente Odoo](../assets/img/05-instalacion_odoo/paso01_asistente.png "Asistente de instalación")
+   ![Asistente Odoo](../assets/img/05-instalacion_odoo/FotoInstalacion01.png "Asistente de instalación")
+   ![Asistente Odoo](../assets/img/05-instalacion_odoo/FotoInstalacion02.png "Asistente de instalación")
+   ![Asistente Odoo](../assets/img/05-instalacion_odoo/FotoInstalacion03.png "Asistente de instalación")
 
 > Resultado esperado: Odoo instalado, acceso a accesos directos/servicio.

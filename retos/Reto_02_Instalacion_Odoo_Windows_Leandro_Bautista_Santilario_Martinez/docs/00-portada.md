@@ -1,4 +1,4 @@
-# Instalación de Odoo en Windows — {Nombre Apellidos}
+# Instalación de Odoo en Windows — Leandro Bautista Santilario Martinez
 **Reto:** 
 
 Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez
