@@ -1,3 +1,4 @@
+![Logo](../assets/img/00-portada/odoo_logo.png "Logo de Odoo")
 # Instalación de Odoo en Windows — Leandro Bautista Santilario Martinez
 **Reto:** 
 

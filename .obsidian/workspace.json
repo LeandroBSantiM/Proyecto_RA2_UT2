@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "af3d47e1750ae026",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ff78d3f68a34082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72f4c37f24538ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "99-bibliografia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b7f709be0fdb5ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "360fcaa69b9bd3bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66444c0f68b7fffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c50f71c712e7e355",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10f284c5d6dff9f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5e42a611cc715c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "32f93869e0d74a16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffbba92ad88f50a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 99-bibliografia"
+            }
+          },
+          {
+            "id": "7a60c40da420d7a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 99-bibliografia"
+            }
+          },
+          {
+            "id": "c070da5e67ddf0bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90e8ee634467f585",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "38b19aa214a3be2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 99-bibliografia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f72f4c37f24538ac",
+  "lastOpenFiles": [
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/assets/img/00-portada/odoo_logo.png",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/assets/img/00-portada",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/11-checklist.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/10-troubleshooting.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/09-verificacion.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/08-creacion_bd_prueba.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/07-ejecucion_servicio.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/06-configuracion_inicial.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/05-instalacion_odoo.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/04-postgresql_windows.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/03-descarga_instalador.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/02-requisitos_previos.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/01-indice.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/00-portada.md"
+  ]
+}
