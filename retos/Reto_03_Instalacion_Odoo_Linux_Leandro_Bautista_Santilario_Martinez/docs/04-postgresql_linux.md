@@ -8,7 +8,8 @@
    ```bash
    sudo systemctl status postgresql
    ```
-   ![Servicio PostgreSQL](../assets/img/04-postgresql_linux/paso01_status-postgres.png "Estado del servicio")
+   ![Servicio PostgreSQL](../assets/img/04-postgresql_linux/FotoPostgre01.png "Estado del servicio")
+   ![Servicio PostgreSQL](../assets/img/04-postgresql_linux/FotoPostgre02.png "Estado del servicio")
 
 3. (Opcional) Cambia contraseña del usuario `postgres` o crea rol específico para Odoo.
 

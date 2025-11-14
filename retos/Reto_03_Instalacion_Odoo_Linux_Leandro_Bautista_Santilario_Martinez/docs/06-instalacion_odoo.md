@@ -8,7 +8,8 @@
    # (Ejemplo orientativo — ajusta a la versión que uses)
    sudo apt -y install odoo
    ```
-
+![Instalacion_de_Odoo](../assets/img/06-instalacion_odoo/FotoInstalacion01.png "Instalacion_de_Odoo")
+![Instalacion_de_Odoo](../assets/img/06-instalacion_odoo/FotoInstalacion02.png "Instalacion_de_Odoo")
 ## Método B — Desde código fuente (git)
 1. Crea usuario del sistema `odoo` (sin shell de login si prefieres):
    ```bash
