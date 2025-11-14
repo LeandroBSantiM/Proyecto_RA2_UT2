@@ -11,6 +11,7 @@
    logfile = /var/log/odoo/odoo.log
    xmlrpc_port = 8069
    ```
+   ![Instalacion_de_Odoo](../assets/img/07-configuracion_odoo/FotoConfiguracion01.png "Instalacion_de_Odoo")
 2. Crea carpetas y permisos si procede:
    ```bash
    sudo mkdir -p /var/log/odoo && sudo chown odoo:odoo /var/log/odoo

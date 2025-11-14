@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/00-portada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "99-bibliografia"
+              "title": "00-portada"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/00-portada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 99-bibliografia"
+              "title": "Backlinks for 00-portada"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/00-portada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 99-bibliografia"
+              "title": "Outgoing links from 00-portada"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/00-portada.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 99-bibliografia"
+              "title": "Outline of 00-portada"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "f72f4c37f24538ac",
   "lastOpenFiles": [
+    "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/99-bibliografia.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/assets/img/00-portada/odoo_logo.png",
     "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/assets/img/00-portada",
     "retos/Reto_02_Instalacion_Odoo_Windows_Leandro_Bautista_Santilario_Martinez/docs/11-checklist.md",
